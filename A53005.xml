@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes supremacy destroyed by the French King, as it was by King Henry VIII of England communicated in a letter from Paris, 25 March, 1682.</title>
+            <author>T. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53005</idno>
+            <idno type="STC">Wing N79</idno>
+            <idno type="STC">ESTC R10623</idno>
+            <idno type="EEBO-CITATION">13114089</idno>
+            <idno type="OCLC">ocm 13114089</idno>
+            <idno type="VID">97724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes supremacy destroyed by the French King, as it was by King Henry VIII of England communicated in a letter from Paris, 25 March, 1682.</title>
+                  <author>T. N.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wilkins,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>Signed at end: T.N.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>Catholic Church --  France.</term>
+               <term>Church and state --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97724:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>THE Popes Supremacy DESTROYED BY THE FRENCH KING. As it was by King <hi>HENRY</hi> VIII. <hi>of ENGLAND.</hi> Communicated in a LETTER from <hi>PARIS,</hi> 25 <hi>MARCH</hi> 1682.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEing oblidg'd upon all occaſions to give you a teſti<g ref="char:EOLhyphen"/>mony of my reſpects and ſervice, I could not omit giving you a particular Relation of that extraordi<g ref="char:EOLhyphen"/>nary Piece of News, which at preſent is the gene<g ref="char:EOLhyphen"/>ral Diſcourſe of the City; which take as follows:</p>
+            <p>The Seventeenth of this Month the Clergy aſſembled ac<g ref="char:EOLhyphen"/>cording to their Uſual Cuſtom; where they heard the Report of the Commiſſioners named to examine the Six Propoſitions of <hi>Sorbon,</hi> preſented to the King 1663. The Biſhop of <hi>Tour<g ref="char:EOLhyphen"/>nay,</hi> Chief of the Commiſſion, began the Report, which took up the Seſſion of that day. The next day in the Evening the other Commiſſioners, which were the Biſhop of <hi>Maux,</hi> the Biſhop of St. <hi>Malo,</hi> the Biſhop of <hi>Lavat,</hi> the Biſhop Count <hi>De Chalons,</hi> and the Biſhop <hi>d' Alet,</hi> expreſt themſelves upon the ſame Subject.</p>
+            <p>The Nineteenth, in the Morning it was ſeriouſly diſcuſſed and deliberated by the Provinces, upon the Subject of the Commiſſion; and in the Evening the Aſſembly met again, and
+<pb n="2" facs="tcp:97724:2"/>
+               <!-- PDF PAGE 2 -->approved by a General Conſent and Declaration, the Propo<g ref="char:EOLhyphen"/>ſitions following.</p>
+            <list>
+               <item>I. That neither the Pope, nor the Church it ſelf, has any power directly nor indirectly, over the Temporalities of Kings: That they cannot be Depoſed, and that their Subjects cannot be Abſolved from their Oath of Allegiance and Fideli<g ref="char:EOLhyphen"/>ty, for any reaſon whatſoever.</item>
+               <item>II. That a General Council is above the Pope, according to the Eſtabliſh'd Doctrine in the Fourth and Fifth Seſſions of the Council of <hi>Conſtance,</hi> which the Aſſembly declares to have had all the Power and Approbation of the Church. That they do not approve the Erroneous Senſe of thoſe which ſay, That it has only place in Times of Schiſms.</item>
+               <item>III. That the Uſe of the Power of the Pope ought to be li<g ref="char:EOLhyphen"/>mited by the Canons; and that he can do nothing to the pre<g ref="char:EOLhyphen"/>judice of the Ancient Cuſtoms and Liberties of the <hi>Gallick Church.</hi>
+               </item>
+               <item>IV. That the Pope hath Principal Authority in Matters per<g ref="char:EOLhyphen"/>taining to Faith: But that his Deciſions or Judgments are not certain without the Conſent of the Church.</item>
+            </list>
+            <p>After this the Biſhop of <hi>Tournay</hi> read to them the Con<g ref="char:EOLhyphen"/>tents of a Letter which he had been deſired to prepare to be ſent with this Declaration to all the Biſhops of <hi>France,</hi> in the Name of the Aſſembly. He read alſo a Memoire in Confor<g ref="char:EOLhyphen"/>mity thereunto; whereupon the Clergy deſired of the King a Declaration, whereby his Majeſty ſhould ſtrictly Order all Profeſſors in Divinity and Canon Law, to teach the Do<g ref="char:EOLhyphen"/>ctrine contained in theſe Four Articles, which is the Ancient Doctrine of the Kingdom, and ſhall prohibit all Communi<g ref="char:EOLhyphen"/>ties Secular and Regular, to teach the contrary.</p>
+            <p>The Archbiſhop of <hi>Paris</hi> propos'd to the Aſſembly to no<g ref="char:EOLhyphen"/>minate the Commiſſioners to examine the Matter of the Ju<g ref="char:EOLhyphen"/>riſdiction, which of long time reſts undecided, and which
+<pb n="3" facs="tcp:97724:2"/>
+               <!-- PDF PAGE 2 -->ſhould ſettle the Secular Power of the Magiſtracy, by Confor<g ref="char:EOLhyphen"/>mity to the Power of the Church, and of the Ordinations thereof: Which having been approved, he named Six Com<g ref="char:EOLhyphen"/>miſſioners of the Firſt Order, and as many of the Second Or<g ref="char:EOLhyphen"/>der, to Examine this Matter.</p>
+            <p>The Twentieth the Arch-Biſhop of <hi>Paris,</hi> the Biſhop of <hi>Rhemes,</hi> and the Commiſſioners who had the Charge of the Examination of the Six Propoſitions of <hi>Sorbon,</hi> went to St. <hi>Germains.</hi> The Arch Biſhop of <hi>Paris</hi> being Preſident of the Aſſembly, was the Speaker; who with much force of Argu<g ref="char:EOLhyphen"/>ment and Eloquence, preſented an Account to the King of what was done at the Aſſembly upon the Subject of that Commiſſion. He gave to the King the Act containing the Four Propoſitions, ſigned by all the Aſſembly, the Letter which ought to be ſent with the Act to all the Arch-Biſhops, and Biſhops of the Kingdom, and the Memoire; accord<g ref="char:EOLhyphen"/>ing to which he humbly implored his Majeſty to cauſe an Edict to be made: which the King agreed to, according to the earneſt deſire of the Clergy, and the 23th of this Month it was Ratified and Paſſed in Parliament.</p>
+            <p>The King Order'd by this Edict, That the Declarations of the Clergy of <hi>France</hi> ſhall be Regiſtred in all the Courts of Parliament, Balliages, Univerſities, and Faculties of Theo<g ref="char:EOLhyphen"/>logy and Canon Law of his Kingdom, Lands, and Domi<g ref="char:EOLhyphen"/>nions under his Obedience.</p>
+            <p>The King prohibits all his Subjects and Strangers Secu<g ref="char:EOLhyphen"/>lar and Regular, within his Kingdom, to teach any thing contrary to the Doctrine contained in this Declaration.</p>
+            <p>He Ordains, That thoſe which ſhall be choſen to teach Divinity in all the Colledges of each Univerſity, ſhall ſub<g ref="char:EOLhyphen"/>ſcribe the ſame Declaration, and ſhall agree to teach the Do<g ref="char:EOLhyphen"/>ctrine therein contained.</p>
+            <p>That in all the Colledges where there ſhall be ſeveral Profeſſors Secular or Regular, one of them ſhall be bound every year to teach the Doctrine contained in the ſaid
+<pb n="4" facs="tcp:97724:3"/>
+               <!-- PDF PAGE 3 -->Declaration; and where there ſhall be but one Profeſ<g ref="char:EOLhyphen"/>ſor, he ſhall be obliged to teach one the three years ſuc<g ref="char:EOLhyphen"/>ceſſively.</p>
+            <p>That all the Claſſes of the Faculties of Divinity, ſhall eve<g ref="char:EOLhyphen"/>ry year preſent to the Prelate the Names of the Profeſſors, who ſhall be oblig'd to Report them in Writing when it ſhall be requir'd by the Prelates, or the Procurators, or At<g ref="char:EOLhyphen"/>torney-General.</p>
+            <p>That no Batchelor, Secular or Regular, may be receiv'd as Licentiate or Doctor in Divinity or Canon Law, till he has maintain'd this Doctrine in one of his Theſis.</p>
+            <p>That the Prelates ſhall employ their Authority to cauſe this Doctrine to be taught within the Extent of their ſeveral Dio<g ref="char:EOLhyphen"/>ceſſes.</p>
+            <p>That the Dean and Claſſes of the Faculties of Divinity, ſhall Aſſiſt in Execution of this Edict, upon pain of Anſwering it Perſonally and in their own Names.</p>
+            <p>Here Sir, you have the plain and true Senſe and Judgments of our Clergy in that ſo Controverted Point of Supremacy: And by the way, be pleas'd to take Notice, how long our King (for 'twas Preſented in 63.) has been endeavouring to free himſelf from that uneaſie Yoke impos'd on him by St. <hi>Peters</hi> proud miſtaken Succeſſor; and no queſtion our Warlike Ma<g ref="char:EOLhyphen"/>ſter will quickly caſt it off, unleſs the Man with the Triple Crown can prove his Doctrine of Infallibility to be grounded on better Reaſon than his (now no) Doctrine of Supremacy; which I'll promiſe you is very much queſtion'd here, even by the Vulgar, whoſe Sentiments of the lewd Old Gentleman of late (ſince the Publiſhing of this Edict) differ but little from Tenets your Engliſh Proteſtants hold of him: And I believe if they had him in their Clutches, they wou'd hardly ſhew his Holineſs any more Mercy than yours have ſhewn to his Effi<g ref="char:EOLhyphen"/>gies. Adieu Dear Sir,</p>
+            <closer>
+               <signed>I am yours <hi>T. N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Wilkins.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
